@@ -19,7 +19,7 @@ export default function Index() {
           resizeMode="cover">
           <View style={styles.container}>
             <View style={styles.companyLogo}>
-              <Image source={require("../assets/images/logo-black.png")} />
+              <Image source={require("../assets/images/Logo.png")} />
             </View>
 
             <View style={styles.textGroup}>
