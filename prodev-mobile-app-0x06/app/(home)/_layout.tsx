@@ -6,7 +6,7 @@ import {
   Octicons,
 } from "@expo/vector-icons";
 import { Tabs } from "expo-router";
-import "../../global.css";
+import "../../styles/global.css";
 
 const HomeRootLayout = () => {
   return (

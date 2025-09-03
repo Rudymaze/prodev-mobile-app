@@ -4,7 +4,7 @@ import Ionicons from "@expo/vector-icons/Ionicons";
 import MaterialIcons from "@expo/vector-icons/MaterialIcons";
 import { Image, Pressable, Text, View } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
-import "../../global.css";
+import "../../styles/global.css";
 const Profile = () => {
   return (
     <SafeAreaProvider>

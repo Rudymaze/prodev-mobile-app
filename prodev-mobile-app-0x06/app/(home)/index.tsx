@@ -10,7 +10,7 @@ import {
   TouchableHighlight,
   View,
 } from "react-native";
-import "../../global.css";
+import "../../styles/global.css";
 const Home = () => {
   return (
     <View style={styles.container}>
