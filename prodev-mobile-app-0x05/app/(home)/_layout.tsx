@@ -2,8 +2,8 @@ import {
   AntDesign,
   EvilIcons,
   Feather,
-  FontAwesome,
   Ionicons,
+  Octicons,
 } from "@expo/vector-icons";
 import { Tabs } from "expo-router";
 
@@ -59,7 +59,7 @@ const HomeRootLayout = () => {
           title: "Profile",
           headerShown: true,
           tabBarIcon: ({ color }) => (
-            <FontAwesome name="user-o" size={24} color="black" />
+            <Octicons name="feed-person" size={24} color={color} />
           ),
         }}
       />

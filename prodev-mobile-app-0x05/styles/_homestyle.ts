@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    backgroundColor: "#f5f5f5",
+    backgroundColor: "#ffffffff",
   },
   searchGroup: {
     marginTop: 25,
@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f39923ff",
     borderRadius: 50,
     padding: 10,
+    marginTop: 20,
   },
   filterGroup: {
     flexDirection: "row",

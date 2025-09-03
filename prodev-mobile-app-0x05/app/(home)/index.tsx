@@ -28,7 +28,7 @@ const Home = () => {
             />
           </View>
           <View style={styles.searchButton}>
-            <Feather name="search" size={15} color="white" />
+            <Feather name="search" size={20} color="white" />
           </View>
         </View>
       </View>
