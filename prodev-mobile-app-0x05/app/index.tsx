@@ -48,7 +48,7 @@ export default function Index() {
                 </TouchableOpacity>
               </View>
               <View style={{ alignItems: "center", paddingVertical: 20 }}>
-                <Link href={"../home"}>
+                <Link href={"/(home)"}>
                   <Text style={{ color: "white" }}>Continue to home</Text>
                 </Link>
               </View>

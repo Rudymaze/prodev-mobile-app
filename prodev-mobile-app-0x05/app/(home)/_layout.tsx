@@ -59,7 +59,7 @@ const HomeRootLayout = () => {
           title: "Profile",
           headerShown: true,
           tabBarIcon: ({ color }) => (
-            <Octicons name="feed-person" size={24} color={color} />
+            <Octicons name="person" size={24} color={color} />
           ),
         }}
       />
